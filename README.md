@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: a stack overflow caused by uncontrolled recursion. The file 'bug.py' contains code that recursively calls a function without a proper termination condition.  The 'bugSolution.py' offers a corrected version with a base case to prevent infinite recursion.
